@@ -1,0 +1,9 @@
+- In general, this is How I want to be able to operate with my data
+- Using the following abstractions:
+- a) Item - e.g. todo. A singular thing. Simple line of text
+- "Clip" or "Click" or "Clump" - a few of related items batched together
+- c) Queue / Context 
+    - A thematically related sequence of items
+    - Chronologically or by priority
+---
+- If only I could arrange all my data into meaningful clips.. that'd be amazing!
